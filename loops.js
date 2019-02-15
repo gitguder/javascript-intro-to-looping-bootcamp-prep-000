@@ -25,5 +25,5 @@ function incrementVariable() {
 };
 do {
 console.log("I run once regardless.");
-} while (incrementVariable() < num.length);
+} while (incrementVariable() < num);
 }
